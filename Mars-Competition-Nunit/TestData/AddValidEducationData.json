@@ -1,0 +1,12 @@
+{
+    "education": [
+        {
+            "Country": "Australia",
+            "UniversityName": "University of Sydney",
+            "Title": "BA",
+            "Degree": "IT",
+            "GraduationYear": "2019",
+            "Message": "Education has been added"
+        }
+    ]
+}

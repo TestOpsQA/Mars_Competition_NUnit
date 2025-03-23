@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "Singapore",
+            "UniversityName": "<img src=x onerror=alert(1)>",
+            "Title": "M.Tech",
+            "Degree": "CCNG",
+            "GraduationYear": "2015",
+            "Message": "Education information was invalid"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+﻿{
+    "certificate": [
+        {
+            "CertificateName": "Java Advance Certified",
+            "CertificateFrom": "INS AUNZ",
+            "CertificateYear": "2022",
+            "Message": " has been added to your certification"
+        },
+        {
+            "CertificateName": "Performance Tester",
+            "CertificateFrom": "Google",
+            "CertificateYear": "2020",
+            "Message": " has been added to your certification"
+        },
+        {
+            "CertificateName": "Agile Tester",
+            "CertificateFrom": "ISTQBNZ",
+            "CertificateYear": "2011",
+            "Message": " has been added to your certification"
+        },
+        {
+            "CertificateName": "Data Analytics",
+            "CertificateFrom": "Google",
+            "CertificateYear": "2008",
+            "Message": " has been added to your certification"
+        }
+    ]
+}

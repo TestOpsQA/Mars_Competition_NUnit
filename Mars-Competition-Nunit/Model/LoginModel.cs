@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Mars_Competition_Nunit.Data_Model
 {
-    class LoginModel
+   public class LoginModel
     {
+        public string? Username { get; set; }
+        public string? Password { get; set; }
     }
 }

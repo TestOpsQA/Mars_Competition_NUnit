@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "Azerbaijan",
+            "UniversityName": "University of Azerbaijan",
+            "Title": "B.Tech",
+            "Degree": "CSE",
+            "GraduationYear": "2000",
+            "Message": "Education as been updated"
+        }
+    ]
+}

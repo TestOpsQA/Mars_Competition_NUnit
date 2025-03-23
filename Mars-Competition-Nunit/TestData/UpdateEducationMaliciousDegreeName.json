@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "India",
+            "UniversityName": "Melbourne University",
+            "Title": "Associate",
+            "Degree": "<img src=x onerror=alert(1)>",
+            "GraduationYear": "2011",
+            "Message": "Education information was invalid"
+        }
+    ]
+}

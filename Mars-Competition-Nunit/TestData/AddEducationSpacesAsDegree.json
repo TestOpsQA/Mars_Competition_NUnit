@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "Australia",
+            "UniversityName": "Sydney University",
+            "Title": "MBA",
+            "Degree": "                   ",
+            "GraduationYear": "2019",
+            "Message": "Education information was invalid"
+        }
+    ]
+}
