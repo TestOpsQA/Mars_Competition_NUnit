@@ -1,0 +1,10 @@
+﻿{
+    "certificate": [
+        {
+            "CertificateName": "<svg onload=alert('XSS')>",
+            "CertificateFrom": "IBKY",
+            "CertificateYear": "2019",
+            "Message": "Please enter valid details"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+﻿{
+    "education": [
+        
+        {
+            "Country": "India",
+            "UniversityName": "JNTUH",
+            "Title": "B.Tech",
+            "Degree": "ECE",
+            "GraduationYear": "2005",
+            "Message": "Education has been added"
+        },
+        {
+            "Country": "Korea",
+            "UniversityName": "KIT University",
+            "Title": "M.Tech",
+            "Degree": "CSSEF",
+            "GraduationYear": "2011",
+            "Message": "Education has been added"
+        },
+        {
+            "Country": "Australia",
+            "UniversityName": "Queensland QUE",
+            "Title": "BFA",
+            "Degree": "Fashion",
+            "GraduationYear": "2017",
+            "Message": "Education has been added"
+        },
+        {
+            "Country": "Palestine",
+            "UniversityName": "University of Palestine",
+            "Title": "M.B.A",
+            "Degree": "Finance",
+            "GraduationYear": "2014",
+            "Message": "Education has been added"
+        },
+        {
+            "Country": "Canada",
+            "UniversityName": "University of Vancouver",
+            "Title": "MFA",
+            "Degree": "Finacial MAnagement",
+            "GraduationYear": "2020",
+            "Message": "Education has been added"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "certificate": [
+        {
+            "CertificateName": "Test Master",
+            "CertificateFrom": "           ",
+            "CertificateYear": "2010",
+            "Message": " Please enter valid details"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "",
+            "UniversityName": "",
+            "Title": "",
+            "Degree": "",
+            "GraduationYear": "",
+            "Message": "Please enter all the fields"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.AddCertificateWithLongCertificateFrom</TestName>
+    <Status>Failed</Status>
+    <ErrorMessage>Multiple failures or warnings in test:
+  1)   The actual success message does not match the expected message.
+  Expected string length 26 but was 49. Strings differ at index 0.
+  Expected: "Please enter valid details"
+  But was:  "Agile Tester has been added to your certification"
+  -----------^
+
+  2) Test failed due to exception:   The actual success message does not match the expected message.
+  Expected string length 26 but was 49. Strings differ at index 0.
+  Expected: "Please enter valid details"
+  But was:  "Agile Tester has been added to your certification"
+  -----------^
+
+</ErrorMessage>
+    <StartTime>2025-04-12_01-45-18</StartTime>
+    <EndTime>2025-04-12_01-50-18</EndTime>
+  </Test>
+</TestReports>

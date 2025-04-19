@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.DeleteCertificate</TestName>
+    <Status>Failed</Status>
+    <ErrorMessage>  The actual success message does not match the expected message.
+  Expected string length 62 but was 63. Strings differ at index 22.
+  Expected: "ISTQB Certified Testerhas been deleted from your certification"
+  But was:  "ISTQB Certified Tester has been deleted from your certification"
+  ---------------------------------^
+</ErrorMessage>
+    <StartTime>2025-04-12_02-24-21</StartTime>
+    <EndTime>2025-04-12_02-29-21</EndTime>
+  </Test>
+</TestReports>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.AddCertificateWithLongCertificateName</TestName>
+    <Status>Failed</Status>
+    <ErrorMessage>Multiple failures or warnings in test:
+  1)   The actual success message does not match the expected message.
+  Expected string length 26 but was 1107. Strings differ at index 0.
+  Expected: "Please enter valid details"
+  But was:  "Certification or Award: In the heart of a bustling city, wher..."
+  -----------^
+
+  2) Test failed due to exception:   The actual success message does not match the expected message.
+  Expected string length 26 but was 1107. Strings differ at index 0.
+  Expected: "Please enter valid details"
+  But was:  "Certification or Award: In the heart of a bustling city, wher..."
+  -----------^
+
+</ErrorMessage>
+    <StartTime>2025-04-12_01-46-35</StartTime>
+    <EndTime>2025-04-12_01-51-35</EndTime>
+  </Test>
+</TestReports>

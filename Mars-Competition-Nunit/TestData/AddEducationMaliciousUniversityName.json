@@ -1,0 +1,12 @@
+﻿{
+    "education": [
+        {
+            "Country": "Australia",
+            "UniversityName": "<img src=x onerror=alert(1)>",
+            "Title": "MBA",
+            "Degree": "IT",
+            "GraduationYear": "2019",
+            "Message": "Education information was invalid"
+        }
+    ]
+}

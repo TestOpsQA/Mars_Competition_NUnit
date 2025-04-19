@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.UpdateCertificateSpacesAsCertificateName</TestName>
+    <Status>Failed</Status>
+    <ErrorMessage>  The actual success message does not match the expected message.
+  Expected string length 26 but was 38. Strings differ at index 0.
+  Expected: "Please enter valid details"
+  But was:  "has been updated to your certification"
+  -----------^
+</ErrorMessage>
+    <StartTime>2025-04-12_03-12-08</StartTime>
+    <EndTime>2025-04-12_03-17-08</EndTime>
+  </Test>
+</TestReports>
