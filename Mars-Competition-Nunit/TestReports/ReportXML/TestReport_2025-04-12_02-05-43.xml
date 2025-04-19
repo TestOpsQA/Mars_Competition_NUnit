@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.AddCertificateWithSpecialCharactersCertificateFrom</TestName>
+    <Status>Passed</Status>
+    <StartTime>2025-04-12_02-05-43</StartTime>
+    <EndTime>2025-04-12_02-10-43</EndTime>
+  </Test>
+</TestReports>

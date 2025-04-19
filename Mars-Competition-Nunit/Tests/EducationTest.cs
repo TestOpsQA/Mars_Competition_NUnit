@@ -64,7 +64,7 @@ namespace Mars_Competition_Nunit.Tests
                     Assert.That(educationData, Is.Not.Null.And.Not.Empty, "No educations data found in the file.");
 
                     // Collect expected education names
-                    List<string> expectedDegreesNames = educationData.Select(edu => edu.Degree).ToList();
+                    List<string> expectedDegreesNames = educationData.Select(edu => edu.degree).ToList();
 
                     // Add educations
                     educationPage.AddMultipleValidEducation();

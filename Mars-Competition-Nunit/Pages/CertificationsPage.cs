@@ -56,10 +56,10 @@ namespace Mars_Competition_Nunit.Pages
                 }
 
                 CertificateModel certificateData = certificateDataList[0]; // Get the first record
-                certificateName = certificateData?.CertificateName;
-                certificateFrom = certificateData?.CertificateFrom;
-                year = certificateData?.CertificateYear;
-                message = certificateData?.Message;
+                certificateName = certificateData?.certificateName;
+                certificateFrom = certificateData?.certificateFrom;
+                year = certificateData?.certificateYear;
+                message = certificateData?.message;
 
                 TestContext.Out.WriteLine($"🎉 Successfully loaded certificate data from: {fileName}");
             }
@@ -139,10 +139,10 @@ namespace Mars_Competition_Nunit.Pages
                 foreach (var cert in certificateDataList)
                 {
                     // Ensure all fields are not null
-                    certificateName = cert.CertificateName;
-                    certificateFrom = cert.CertificateFrom;
-                    year = cert.CertificateYear;
-                    message = cert.Message;
+                    certificateName = cert.certificateName;
+                    certificateFrom = cert.certificateFrom;
+                    year = cert.certificateYear;
+                    message = cert.message;
                     // Verify that the required data is available
                     if (string.IsNullOrWhiteSpace(certificateName) || string.IsNullOrWhiteSpace(certificateFrom) || string.IsNullOrWhiteSpace(year))
                     {

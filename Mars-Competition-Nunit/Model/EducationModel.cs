@@ -8,11 +8,11 @@ namespace Mars_Competition_Nunit.Data_Model
 {
     public class EducationModel
     {
-        public string? Country { get; set; }
-        public string? UniversityName { get; set; }
-        public string? Title { get; set; }
-        public string? Degree { get; set; }
-        public string? GraduationYear { get; set; }
-        public string? Message { get; set; }
+        public string? country { get; set; }
+        public string? universityName { get; set; }
+        public string? title { get; set; }
+        public string? degree { get; set; }
+        public string? graduationYear { get; set; }
+        public string? message { get; set; }
     }
 }

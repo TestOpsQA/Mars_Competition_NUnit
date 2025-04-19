@@ -32,8 +32,8 @@ namespace Mars_Competition_Nunit.Pages
 
             // Initialize login credentials
             LoginModel loginData = loginDataList[0]; // Get first login data
-            email = loginData?.Username;
-            password = loginData?.Password;
+            email = loginData?.username;
+            password = loginData?.password;
 
         }
         public void Login()
@@ -48,8 +48,8 @@ namespace Mars_Competition_Nunit.Pages
                 try
                 {
                     LoginModel loginData = loginDataList[0]; // Get first login data
-                    string? email = loginData?.Username;
-                    string? password = loginData?.Password;
+                    string? email = loginData?.username;
+                    string? password = loginData?.password;
 
                     SignInButton?.Click();
                     UsernameField?.SendKeys(email);

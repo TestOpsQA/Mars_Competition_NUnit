@@ -68,7 +68,7 @@ namespace Mars_Competition_Nunit.Tests
                     Assert.That(certificatesData, Is.Not.Null.And.Not.Empty, "No certificates data found in the file.");
 
                     // Collect expected certificate names
-                    List<string> expectedCertificateNames = certificatesData.Select(certificate => certificate.CertificateName).ToList();
+                    List<string> expectedCertificateNames = certificatesData.Select(certificate => certificate.certificateName).ToList();
 
                     // Add certificates
                     certificationsPage.AddMultipleValidCertificates();

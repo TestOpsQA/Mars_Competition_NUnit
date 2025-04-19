@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.CertificationsTests.AddMultipleValidCertificate</TestName>
+    <Status>Passed</Status>
+    <StartTime>2025-04-12_02-16-45</StartTime>
+    <EndTime>2025-04-12_02-21-45</EndTime>
+  </Test>
+</TestReports>

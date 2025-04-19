@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.EducationTest.UpdateDuplicateEducation</TestName>
+    <Status>Passed</Status>
+    <StartTime>2025-04-12_04-26-32</StartTime>
+    <EndTime>2025-04-12_04-31-32</EndTime>
+  </Test>
+</TestReports>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestReports>
+  <Test>
+    <TestName>Mars_Competition_Nunit.Tests.EducationTest.UpdateEducationMaliciousDegreeName</TestName>
+    <Status>Failed</Status>
+    <ErrorMessage>  The actual success message does not match the expected message.
+  Expected string length 33 but was 25. Strings differ at index 10.
+  Expected: "Education information was invalid"
+  But was:  "Education as been updated"
+  ---------------------^
+</ErrorMessage>
+    <StartTime>2025-04-12_04-40-55</StartTime>
+    <EndTime>2025-04-12_04-45-55</EndTime>
+  </Test>
+</TestReports>

@@ -58,12 +58,12 @@ namespace Mars_Competition_Nunit.Pages
 
                 // Initialize education data
                 EducationModel educationData = educationDataList[0];
-                Country = educationData?.Country;
-                UniversityName = educationData?.UniversityName;
-                Title = educationData?.Title;
-                Degree = educationData?.Degree;
-                GraduationYear = educationData?.GraduationYear;
-                Message = educationData?.Message;
+                Country = educationData?.country;
+                UniversityName = educationData?.universityName;
+                Title = educationData?.title;
+                Degree = educationData?.degree;
+                GraduationYear = educationData?.graduationYear;
+                Message = educationData?.message;
 
                 TestContext.Out.WriteLine($"🎉 Successfully loaded education data:{Title}, {Country}, {UniversityName}, {Degree}, {GraduationYear}");
             }
@@ -134,13 +134,13 @@ namespace Mars_Competition_Nunit.Pages
                 // Loop through each Education in the list
                 foreach (var education in educationDataList)
                 {
-                    Country = education.Country;
-                    UniversityName = education.UniversityName;
-                    Title = education.Title;
-                    Degree = education.Degree;
+                    Country = education.country;
+                    UniversityName = education.universityName;
+                    Title = education.title;
+                    Degree = education.degree;
 
-                    GraduationYear = education.GraduationYear;
-                    Message = education.Message;
+                    GraduationYear = education.graduationYear;
+                    Message = education.message;
 
                     // Ensure all fields are not null
                     WaitUntilElementIsClickable(AddNewButton);
